@@ -1,0 +1,3 @@
+[submodule "lib/youtube_it"]
+	path = lib/youtube_it
+	url = git@github.com:mickey/youtube_it.git
